@@ -1,4 +1,7 @@
-import localFont from "next/font/local";
+import "primereact/resources/themes/md-light-indigo/theme.css";
+import "primereact/resources/primereact.min.css";
+import "primeicons/primeicons.css";
+import "primeflex/primeflex.css";
 import "../styles/globals.css";
 import { Inter } from "next/font/google";
 
